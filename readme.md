@@ -1,0 +1,1 @@
+A simple web scraping tool following Scotch's tutorial here: http://scotch.io/tutorials/javascript/scraping-the-web-with-node-js
